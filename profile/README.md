@@ -2,5 +2,5 @@
 
 Build, document, validate, secure and customize REST APIs through code-first development in Go! 🚀
 
-- [GitHub](https://github.com/gophar-fleece/gleece)
-- [Documentation](https://docs.gleece.dev)
+- 📦 [GitHub Repository](https://github.com/gophar-fleece/gleece)  
+- 📖 [Documentation](https://docs.gleece.dev)
